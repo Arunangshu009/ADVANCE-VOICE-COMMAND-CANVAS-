@@ -1,0 +1,19 @@
+body
+{
+	text-align: center;
+}
+span
+{
+	font-size: 12px;
+	color: red;
+}
+canvas
+{
+	background: whitesmoke;
+	border-radius: 20px;
+	border-width: 20px;
+	border-style: groove;
+	border-color: red;
+	height: 700px;
+	width: 600px;
+}
